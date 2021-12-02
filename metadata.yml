@@ -1,0 +1,13 @@
+$ cat tick.dockerapp/metadata.yml
+# Version of the application
+version: 0.1.0
+# Name of the application
+name: tick
+# A short description of the application
+description:
+# Namespace to use when pushing to a registry. This is typically your Hub username.
+namespace: lucj
+# List of application maintainers with name and email for each
+maintainers:
+ — name: luc
+   email:
